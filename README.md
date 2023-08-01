@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=haryang's%20Github!&fontSize=60" />
 </div>
 <br>
-<br>
 
 
 ### <div align="center"> 📚 Tech Stack 📚 </div>
