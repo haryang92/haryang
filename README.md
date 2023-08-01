@@ -4,6 +4,7 @@
 <br>
 <br>
 
+
 ### <div align="center"> 📚 Tech Stack 📚 </div>
 ##### <div align="center"> ✏️ Skill & Languages ✏️ </div>
 <div align="center">
@@ -34,6 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haryang92&layout=compact">
 </div>
 <br>
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haryang92&show_icons=true">
 </div>
+-->
