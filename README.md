@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=haryang%20Github!&fontSize=90)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=haryang%20Github!&fontSize=90" />
+</div>
 <br>
 <br>
-<br>
+
 ### <div align="center"> 📚 Tech Stack 📚 </div>
 ##### <div align="center"> ✏️ Skill & Languages ✏️ </div>
 <div align="center">
